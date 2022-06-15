@@ -1,0 +1,93 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background-image: radial-gradient(#000000 25%, #000000 75%);
+	height: 100vh;
+	font-family: system-ui;
+
+}
+.clearfix{
+	clear: both;
+}
+.main{
+	height: 1150px;
+	width: 800px;
+	background-color: rgb(43, 43, 172);
+	box-shadow: 15px 5px 15px 5px #000000;
+	margin: 20px auto;
+
+}
+
+.top-section{
+	background-color:#0d0335;
+	text-align: center;
+	padding: 20px;
+}
+.profile{
+	width: 160px;
+	border-radius: 50%;
+	
+}
+.p1{
+	color: rgb(255, 255, 255);
+	font-size: 30px;
+	font-weight: bold;
+	margin: 0px;
+	margin-top: 10px;
+}
+.p1 span{
+	font-weight: 100;
+	color: #fff8f8;
+}
+.p2{
+	font-size: 20px;
+	color: #c7c7c7;
+	margin: 0px;
+	margin-top: 10px;
+}
+.col-div-4{
+	width: 35%;
+	float: left;
+
+}
+.col-div-8{
+	width: 62%;
+	float: left;
+}
+.line{
+	border-left: 1px solid #ffffff;
+  height: 800px;
+  width: 2%;
+  margin-top: 30px;
+  float:left;
+}
+.content-box{
+	padding: 20px;
+}
+.head{
+	font-size: 20px;
+	text-transform: uppercase;
+	font-weight: 600;
+}
+.p3{
+	color: #ffffff;
+	margin-bottom: -5px;
+
+}
+.fa{
+	color: #ffffff;
+}
+.skills{
+	margin-left: -20px;
+	    margin-bottom: 0px;
+}
+.skills li{
+	padding: 5px;
+}
+.skills li span{
+	color: #ffffff;
+}
+.p-4{
+	font-size: 14px;
+	color: #ffffff;
+}
